@@ -1,13 +1,14 @@
 :root {
   --red: #AD343E;
   --yellow: #F2AF29;
-  --midgrey: #474747;
+  --midgrey: #363636;
   --lightgrey: #e5e5e5;
   --grey: #C0C0C0;
   --black: #000;
   --darkgrey: #121212;
   --darkgrey2: #242424;
   --white: #fff;
+  --border-radius: 0.33rem;
 }
 
 /* Reset */
@@ -69,16 +70,25 @@ h2 {
 p + h2,
 ul + h2,
 ol + h2 {
-  margin-top: 1.33rem;
+  margin-top: 2.33rem;
+}
+
+p + h3,
+ul + h3,
+ol + h3 {
+  margin-top: 2rem;
 }
 
 .page-heading {
-  background: #363636;
-  padding: 2rem 0;
-  margin: -2rem -4rem 1.5rem;
+  margin-bottom: 0rem;
+  padding: 3rem 1rem;
+  font-size: 2.3rem;
   font-size: 2.8rem;
-  border-bottom: solid 0.5rem var(--yellow);
-  border-radius: 0.25rem 0.25rem 0 0;
+  color: #fff;
+  background: var(--midgrey);
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
+  line-height: 1.2;
+  text-shadow: 2px 4px rgba(0,0,0,0.2);
 }
 
 .direct-link {
@@ -92,19 +102,37 @@ ol + h2 {
   top: 50%;
   transform: translateY(-50%) rotate(45deg);
   left: -1.5rem;
-  opacity: 0.4;
+  opacity: 0;
+}
+
+h2:hover .direct-link,
+h3:hover .direct-link {
+  opacity: 1;
+}
+
+.direct-link:hover,
+.direct-link:focus {
+  opacity: 0.8;
+}
+
+.article h2,
+.article h3,
+.article h4 {
+  line-height: 1.25;
 }
 
 .article {
-  background-color: var(--lightgrey);
-  /* border-top: solid 0.5rem var(--red); */
   color: var(--darkgrey2);
   font-size: 1.05rem;
-  padding: 1.5rem 4rem 3rem;
   max-width: 960px;
   margin: 0 auto;
   line-height: 1.55;
-  border-radius: 0 0 0.25rem 0.25rem;
+}
+
+.article__body {
+  padding: 2rem 4rem 3rem;
+  background-color: var(--lightgrey);
+  border-radius: 0 0 var(--border-radius) var(--border-radius);
 }
 
 .article a {
@@ -113,9 +141,8 @@ ol + h2 {
 }
 
 .article h3 {
-  margin-bottom: 1.11rem;
-  font-size: 1.72rem;
-  color: var(--darkgrey2)
+  margin-bottom: 0.65rem;
+  font-size: 1.33rem;
 }
 
 .article h4 {
@@ -127,9 +154,16 @@ ol + h2 {
 }
 
 
-.article p,
-.article ul {
+.article p {
   margin-bottom: 1rem;
+}
+
+.article ul {
+  margin-bottom: 1.5rem;
+}
+
+.article ul ul {
+  margin-top: 0.5rem;
 }
 
 .article li {
@@ -183,8 +217,8 @@ ol + h2 {
 .posts__item {
   padding: 1.5rem;
   position: relative;
-  border-radius: 0.25rem;
-  background-color: #363636;
+  border-radius: var(--border-radius);
+  background-color: var(--midgrey);
   min-height: 33vh;
   display: flex;
   align-items: center;
@@ -210,6 +244,7 @@ ol + h2 {
   line-height: 1.25;
   margin-bottom: 0;
   text-transform: uppercase;
+  text-shadow: 2px 4px rgba(0,0,0,0.2);
 }
 
 .logo {
@@ -238,7 +273,7 @@ ol + h2 {
 
 .site-footer {
   text-align: center;
-  font-size: 0.875rem;
+  font-size: 0.8rem;
   color: var(--grey);
   line-height: 1.55;
   padding: 3rem 0;
