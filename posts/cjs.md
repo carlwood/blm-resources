@@ -1,37 +1,18 @@
 ---
-title: Resources for people in the UK
-description: Actions you can take and links to reading material.  
-date: 
+title: UK Criminal Justice System
+description: Resources highlighting BAME disproportionality and institutional racism
+date:
 tags:
 layout: layouts/post.njk
 ---
-
-## Take action
-
-### Petitions and emails
-
-- Email Secretary of Education Gavin Williamson and ask him to make Black histories mandatory in the national curriculum. If you're not sure what to say, you can use [this template](https://docs.google.com/document/d/1XHz8NJph6laVBFnuzhIzAzFTqjjfFt4-ucEt9EO6_Fw/edit) from [The Black Curriculum](https://www.theblackcurriculum.com/).
-
-### Donations
-Organisations you can give money to if you're able:
-- [Runnymede Trust](https://www.runnymedetrust.org/support-us/donations.html) — independent race equality think tank working on research-based interventions in social policy and practice. Registered charity: 1063609.
-
-
-## Learn more
-
-### Black History in the UK
-Research some of the key events in Black British history:
-- [1919 Race Riots](https://www.blackpast.org/global-african-history/events-global-african-history/britain-s-1919-race-riots/) — one of Britain’s most violent periods of racial upheaval in the 20th century.
-- [League of Coloured Peoples](https://blogs.soas.ac.uk/archives/2018/10/26/black-history-month-2018-harold-moody) — British civil-rights organisation established in 1931 by Jamaican-born Dr Harold Moody with the goal of racial equality.
-- [1948 British Nationality Act](https://www.runnymedetrust.org/blog/british-citizenship-and-the-windrush-generation) — 
-
-### Criminal Justice System
+## Failed by the system
 Read the stories of some of the many British people of colour who’ve been abused, killed and/or otherwise failed by the British Criminal Justice System (CJS):
 - **Sarah Reed** — a 32-year-old with a serious mental health condition exacerbated by the death of her baby and an assault by a police officer. She took her own life in prison, and a jury concluded that “unacceptable delays in psychiatric assessment and failures in care contributed to her death”. I urge you to read the [conclusions from the inquest findings](https://www.inquest.org.uk/sarah-reed-inquest-conclusions).  
 - **Rashan Charles** —  a 20-year-old who was pursued as he fled after a vehicle stop, thrown to the ground and restrained, and subsequently choked to death on a caffeine and paracetamol pill he had in his mouth. The officer said he and his “fellow officers were on the lookout for gang violence” and he had “believed [Rashan Charles] to be acting suspiciously” ([read more in this article](https://www.theguardian.com/uk-news/2018/jun/04/rashan-charles-inquest-cctv-showing-his-arrest-upsets-family)).  An independent investigation found that the officer hadn’t followed protocol by failing to call am ambulance sooner, but declared the use of force justified. The officer faced no charges and was granted anonymity. 
 - **Julian Cole** — a 19-year-old student who was left paralysed and brain damaged after having his neck broken while being tackled by police and cuffed face down, when he had been trying to demand a refund after having been thrown out of a nightclub. The police officers involved were later found to have lied in their statements and directly to Cole’s family about what had happened. They were dismissed, but no criminal charges were brought against them.
 - Belly Mujinga, Adrian McDonald, Daniel Adewole, Azelle Rodney, Derek Bennett, Sheku Bayoh and the many other. 
 
+## The figures that tell a story 
 Know that these are individual stories which are symptomatic of systemic issues, plainly visible in the figures.
 - [Race and the criminal justice system statistics 2018](https://www.gov.uk/government/statistics/race-and-the-criminal-justice-system-statistics-2018)
 	- Black people make up less than 5% of the UK population but 13% of the prison population.
@@ -51,17 +32,16 @@ Know that these are individual stories which are symptomatic of systemic issues,
 	- BAME defendants were more likely than white defendants to receive prison sentences for drug offences.
 - The Metropolitan police officers enforcing the coronavirus lockdown are more than twice as likely to issue fines to black people as to white people ([source](https://www.theguardian.com/uk-news/2020/jun/03/met-police-twice-as-likely-to-fine-black-people-over-lockdown-breaches-research)).
 
-
+## The problems in the system
 Read [Racism and criminal justice](https://www.crimeandjustice.org.uk/publications/cjm/article/racism-and-criminal-justice) published in the 2015 #BlackLivesMatter edition of cjm. It explores the social and historical context to disproportionality in the criminal justice system, and highlights that:
 - The data doesn't support claims by politicans like Tony Blair that this is down to "black on black" crime.
 - Racism, surveillance and societal systems create problems and barriers for BAME groups. Black people experience the problem, but they aren't the problem.
 - The mainstream understanding that criminal justice "picks up the most dangerous individuals in society" and "protects victims" is false. It protects against some threats, but not necessarily the most grave ones, and is self-interested in where it focuses its efforts.
 - Criminal justice does not operate in a bubble. There are many interconnected factors and inequalities that play a role in the disproporionate punishment of BAME people. There is a need to "push for change within criminal justice and outside of criminal justice".
 
-### Further reading
+## Further reading
 A running list of resources we plan to read but haven't yet. As we do, we aim to add summaries above.
 - Article: [Ethnicity, harm and crime: A discussion paper](https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/ETHNICITY%20HARM%20AND%20CRIME%20A%20DISCUSSION%20PAPER.pdf) (Roberts & McMahon, 2008)
-- Book: The Rich Get Richer and Poor Get Prison (Reiman, 2004)
 - Article: [Is the Empire coming home? Liberalism, exclusion and the punitiveness of the British State](http://britsoccrim.org/volume14/pbcc_2014_moore.pdf) (Moore, 2014)
 
 
