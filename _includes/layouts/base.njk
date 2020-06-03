@@ -12,7 +12,9 @@
   </head>
   <body>
     <header class="site-header">
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <a class="logo" href="{{ '/' | url }}">
+        <span>#BLM</span>Resources
+      </a>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
@@ -23,12 +25,14 @@
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      <div class="container">
-        {{ content | safe }}
-      </div>
+      {{ content | safe }}
     </main>
 
-    <footer></footer>
+    <footer class="site-footer">
+      <div class="container container--narrow">
+        <p><b>Disclaimer: </b>This site is maintained by a white couple trying to educate themselves and actively become antiracist. We're sharing these resources in the hopes that others might find them useful, but this is not an exhaustive or authoritative list. If you have any feedback, please <a href="mailto:hashtagblmresources@gmail.com">email us</a>.</p>
+      </div>
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>

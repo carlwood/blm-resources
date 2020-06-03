@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 ### Petitions and emails
 
-- ‎‎Email Secretary of Education Gavin Williamson and ask him to make Black histories mandatory in the national curriculum. If you're not sure what to say, you can use [this template](https://docs.google.com/document/d/1XHz8NJph6laVBFnuzhIzAzFTqjjfFt4-ucEt9EO6_Fw/edit) from [The Black Curriculum](https://www.theblackcurriculum.com/).
+- Email Secretary of Education Gavin Williamson and ask him to make Black histories mandatory in the national curriculum. If you're not sure what to say, you can use [this template](https://docs.google.com/document/d/1XHz8NJph6laVBFnuzhIzAzFTqjjfFt4-ucEt9EO6_Fw/edit) from [The Black Curriculum](https://www.theblackcurriculum.com/).
 
 ### Donations
 Organisations you can give money to if you're able:
