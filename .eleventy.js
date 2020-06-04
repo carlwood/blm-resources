@@ -38,6 +38,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+  eleventyConfig.addFilter("removeHyphens", function (value) {
+    return value.replace('-', ' ');
+  });
+
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
