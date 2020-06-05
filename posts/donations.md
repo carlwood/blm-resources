@@ -1,16 +1,17 @@
 ---
-title: Donate 
-description: Funds you can contribute to
-date: 2020-06-03
+title: Donations
+description: Funds and causes you can contribute to
+date: 2020-01-01
 tags: 
+    - take-action
+permalink: "donations/index.html"
 layout: layouts/post.njk
 ---
-Like a lot of other people, our first donation was to the [Minnesota Freedom Fund](https://minnesotafreedomfund.org/), as it was one of the higher profile bail funds that got shared on social media. Unsurprisingly, they've been inundated with donations while many other funds are still in urgent need of support.
-
-Here are some additional organisations doing valuable work. We'll be adding more as we do further research.
+Like a lot of other people, our first donation was to the [Minnesota Freedom Fund](https://minnesotafreedomfund.org/), as it was one of the higher profile bail funds that got shared on social media. Unsurprisingly, they've been inundated with donations while many other funds are still in urgent need of support. Here are some other organisations doing valuable work.
 
 ## In the UK
 - [Black Learning Achievement and Mental Health (BLAM)](https://blamcharity.com/) — organisation committed to ensuring that the Black British Community is represented and appreciated, by facilitating a positive social dialogue about Blackness.
+- [Black Minds Matter](https://www.gofundme.com/f/black-minds-matter-uk) — linking black individuals and families in the UK with certified, professional, black practitioners for free therapy sessions.
 - [Coalition for Racial Equality and Rights](https://www.crer.scot/) — Scottish strategic racial equality charity, based in Glasgow.
 - [Operation Black Vote](https://www.obv.org.uk/) — seeks to inspire BME communities to engage with our public institutions in order to address the persistent race inequalities we face in areas such as: education, health and employment.  
 - [Runnymede Trust](https://www.runnymedetrust.org/support-us/donations.html) — independent race equality think tank working on research-based interventions in social policy and practice.
