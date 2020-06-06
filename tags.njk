@@ -15,7 +15,9 @@ renderData:
   title: "{{ tag | removeHyphens }} | BLM Resources"
 permalink: /{{ tag }}/
 ---
-<h1 class="page-heading">{{ tag | removeHyphens }}</h1>
+<div class="container">
+  <h1 class="page-heading">{{ tag | removeHyphens }}</h1>
 
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
+  {% set postslist = collections[ tag ] %}
+  {% include "postslist.njk" %}
+</div>
