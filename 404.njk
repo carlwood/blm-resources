@@ -1,12 +1,15 @@
 ---
-layout: layouts/home.njk
+layout: layouts/base.njk
 permalink: 404.html
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-<h1>Page not found</h1>
+<div class="container">
+  <h1 class="page-heading">Page not found</h1>
+  <p class="intro-text">Continue your journey below.</p>
 
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+  {% set postslist = collections.posts %}
+  {% include "postslist.njk" %}
+</div>

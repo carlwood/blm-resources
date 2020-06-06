@@ -10,12 +10,12 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-layout: layouts/home.njk
+layout: layouts/base.njk
 renderData:
-  title: {{ tag }}
+  title: "{{ tag | removeHyphens }} | BLM Resources"
 permalink: /{{ tag }}/
 ---
-<h1>{{ tag | removeHyphens }}</h1>
+<h1 class="page-heading">{{ tag | removeHyphens }}</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
