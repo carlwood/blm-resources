@@ -1,15 +1,5 @@
 {
   "title": "BLM Resources",
   "url": "https://blm-resources.netlify.com/",
-  "description": "BLM Resources",
-  "feed": {
-    "subtitle": "BLM Resources",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
-  },
-  "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
-  }
+  "description": "Links to antiracism resources"
 }
