@@ -3,8 +3,8 @@ title: Self Reflection
 description: Looking inwards and confronting our own racism
 date:
 tags:
-    - take-action
-    - learn
+    - Take action
+    - Learn
 permalink: "self-reflection/index.html"
 layout: layouts/post.njk
 ---
