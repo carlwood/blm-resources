@@ -12,8 +12,8 @@ pagination:
   addAllPagesToCollections: true
 layout: layouts/base.njk
 renderData:
-  title: "{{ tag | removeHyphens }} | BLM Resources"
-permalink: /{{ tag }}/
+  title: "{{ tag }} | BLM Resources"
+permalink: /{{ tag | slug }}/
 ---
 <div class="container">
   <h1 class="page-heading">{{ tag | removeHyphens }}</h1>
