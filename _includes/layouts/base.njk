@@ -23,30 +23,34 @@
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Open+Sans+Condensed:wght@700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <header class="site-header">
-      <a class="logo" href="{{ '/' | url }}">
-        <span>#BLM</span>Resources
-      </a>
+    <div class="site-container">
+      <header class="site-header">
+        <a class="logo" href="{{ '/' | url }}">
+          <span>#BLM</span>Resources
+        </a>
 
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav">
-        {% for tag in collections.tagList %}
-          <li>
-            <a href="/{{ tag | slug }}" class="tag">{{ tag }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </header>
+        {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+        <nav>
+          <ul class="nav">
+            {% for tag in collections.tagList %}
+              <li>
+                <a href="/{{ tag | slug }}" class="tag">{{ tag }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      {{ content | safe }}
-    </main>
+      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+      </main>
 
-    <footer class="site-footer">
-      <div class="container container--narrow">
-        <p>This site is run by a white UK-based couple. It's not linked to the official #blacklivesmatter organisation in any way, and should not be considered exhaustive or authoritative! If you spot any issues with the site or content, <a href="mailto:hashtagblmresources@gmail.com">email us</a>.</p>
-      </div>
-    </footer>
+      <footer class="site-footer">
+        <div class="container container--narrow">
+          <p>This site is run by a white UK-based couple. It's not linked to the official #blacklivesmatter organisation in any way, and should not be considered exhaustive or authoritative! If you spot any issues with the site or content, <a href="mailto:hashtagblmresources@gmail.com">email us</a>.</p>
+        </div>
+      </footer>
+    </div>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
