@@ -53,7 +53,8 @@ Here are a few more things we need to consider specifically when using social me
 
 ## Further reading
 
-- [About the Weary Weaponizing of White Women Tears](https://www.awesomelyluvvie.com/2018/04/weaponizing-white-women-tears.html)
+- [Transform Allyship into Action: A Toolkit for Non-Black People](https://www.instagram.com/p/CA09srxF1Fg/)
 - [Welcome To The Anti-Racism Movement — Here’s What You’ve Missed](https://medium.com/the-establishment/welcome-to-the-anti-racism-movement-heres-what-you-ve-missed-711089cb7d34)
-- [#ExpressiveWriting Prompts to Use If You’ve Been Accused of #WhiteFragility #SpiritualBypass or #WhitePrivilege](http://leesareneehall.com/expressivewriting-prompts-to-use-if-youve-been-accused-of-whitefragility-spiritualbypass-or-whiteprivilege/)
+- [About the Weary Weaponizing of White Women Tears](https://www.awesomelyluvvie.com/2018/04/weaponizing-white-women-tears.html)
 - [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
+- [#ExpressiveWriting Prompts to Use If You’ve Been Accused of #WhiteFragility #SpiritualBypass or #WhitePrivilege](http://leesareneehall.com/expressivewriting-prompts-to-use-if-youve-been-accused-of-whitefragility-spiritualbypass-or-whiteprivilege/)

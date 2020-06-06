@@ -17,11 +17,12 @@ This list is painfully short right now, but will grow as we educate ourselves fu
 
 - *Another Day in the Death of America: A Chronicle of Ten Short Lives* by Gary Younge (read)
 - *Born a Crime* by Trevor Noah (read)
+- *Brit(ish): On Race, Identity and Belonging* by Afua Hirsch (bought, to read)
 - *How To Be An Antiracist* by Ibram X. Kendi (reading)
 - *The New Jim Crow* by Michelle Alexander (reading)
 - *Why I'm No Longer Talking to White People About Race* by Reni Eddo-Lodge (read)
 
-If you're in the UK and trying to source any books, check out [New Beacon Books](https://www.newbeaconbooks.com/), a black-owned bookstore, first to see if they stock it.
+If you're in the UK and trying to source any books, check out [New Beacon Books](https://www.newbeaconbooks.com/), a black-owned bookstore, first to see if they stock it. 
 
 ## Black British history
 We're from the UK and we've realised our schooling was seriously lacking in black British history. Regretfully, we've never taken it upon ourselves to fill in the gaps until now, but we've been finding the following sites useful in our early efforts to change this:
