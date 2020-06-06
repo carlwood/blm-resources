@@ -38,7 +38,7 @@ html {
   font-size: 16px;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
   html {
     font-size: 18px;
   }
@@ -74,7 +74,7 @@ h2 {
   text-transform: uppercase;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
   h2 {
     margin-bottom: 1.25rem;
     font-size: 1.625rem;
@@ -87,7 +87,7 @@ ol + h2 {
   margin-top: 2rem;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
   p + h2,
   ul + h2,
   ol + h2 {
@@ -254,13 +254,13 @@ h4:hover .direct-link {
   list-style: none;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
   .posts {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
   .posts {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -292,7 +292,7 @@ h4:hover .direct-link {
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
   .posts__item {
     min-height: 10rem;
   }
@@ -316,14 +316,14 @@ h4:hover .direct-link {
 }
 
 .posts__item__title {
-  font-size: 1.925rem;
+  font-size: 1.725rem;
   line-height: 1.25;
   margin-bottom: 0;
   text-transform: uppercase;
   text-shadow: 2px 4px rgba(0,0,0,0.2);
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
   .posts__item__title {
     font-size: 2.3rem;
   }
