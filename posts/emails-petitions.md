@@ -3,7 +3,7 @@ title: Emails and petitions
 description: How you can use your pen and signature to help 
 date: 2019-06-02
 tags:
-    - take-action
+    - Take action
 permalink: "emails-and-petitions/index.html"
 layout: layouts/post.njk
 ---
