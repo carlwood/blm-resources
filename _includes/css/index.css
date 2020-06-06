@@ -204,10 +204,16 @@ h4:hover .direct-link {
 
 .article ul ul {
   margin-top: 0.5rem;
+  margin-bottom: 0;
 }
 
 .article li {
   margin-bottom: 0.66rem;
+}
+
+.article li li {
+  margin-bottom: 0.25rem;
+  line-height: 1.4;
 }
 
 .site-header {
