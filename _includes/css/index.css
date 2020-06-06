@@ -35,7 +35,7 @@ a {
 /* End reset */
 
 html {
-  font-size: 16px;
+  font-size: 15px;
 }
 
 @media (min-width: 768px) {
@@ -152,12 +152,14 @@ h4:hover .direct-link {
 }
 
 .article__body {
+  margin: 0 -1rem;
   padding: 1.5rem 1rem;
   background-color: var(--lightgrey);
 }
 
 @media (min-width: 768px) {
   .article__body {
+    margin: 0;
     padding: 3rem 4rem;
   }
 
@@ -216,23 +218,27 @@ h4:hover .direct-link {
 
 .nav {
   display: flex;
+}
+
+.nav-list {
+  display: flex;
   align-items: center;
   list-style: none;
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
-.nav a {
+.nav-list a {
   text-transform: uppercase;
   font-size: 0.9rem;
   text-decoration: none;
 }
 
-.nav a:hover,
-.nav a:focus {
+.nav-list a:hover,
+.nav-list a:focus {
   text-decoration: underline;
 }
 
-.nav li:not(:last-child) {
+.nav-list li:not(:last-child) {
   margin-right: 1.5rem;
 }
 
