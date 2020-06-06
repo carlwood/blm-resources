@@ -41,4 +41,4 @@ Use the [Write To Them](https://www.writetothem.com/) website to find and contac
 - [This doc](https://drive.google.com/file/d/1sZ94FSYKE-zp-L-s9bChjXrddssyqfaD/view) contains four templates you can adapt and send, including to your MP about the connection between racism in UK and the real cost of COVID-19, and to various officials to demand justice for Belly Mujinga.
 
 ## A reminder to vote!
-You can find out the voting record for all UK MPs using the [They Work For You](https://www.theyworkforyou.com/) website. Research the candidates and make your vote count in the fight against racism.
+The current heads of state for both the UK and the US are proven racists. No meaningful change can happen under their leadership. You can find out the voting record for all UK MPs using the [They Work For You](https://www.theyworkforyou.com/) website. Participate in every election you can, and research the candidates ahead of time to make your vote count in the fight against racism.
