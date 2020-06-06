@@ -3,7 +3,7 @@ title: Education
 description: 
 date: 2020-06-03
 tags:
-    - Learn
+    - learn
 permalink: "education/index.html"
 layout: layouts/post.njk
 ---

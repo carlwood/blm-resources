@@ -3,7 +3,7 @@ title: Donations
 description: Funds and causes you can contribute to
 date: 2020-01-01
 tags: 
-    - Take action
+    - take-action
 permalink: "donations/index.html"
 layout: layouts/post.njk
 ---
