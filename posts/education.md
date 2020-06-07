@@ -15,7 +15,6 @@ This in-depth [list of antiracism resources](https://docs.google.com/document/d/
 ## What we're reading
 This list is painfully short right now, but will grow as we educate ourselves further.
 
-- *Another Day in the Death of America: A Chronicle of Ten Short Lives* by Gary Younge (read)
 - *Born a Crime* by Trevor Noah (read)
 - *Brit(ish): On Race, Identity and Belonging* by Afua Hirsch (bought, to read)
 - *How To Be An Antiracist* by Ibram X. Kendi (reading)
@@ -49,8 +48,18 @@ For instance:
 
 But the CJS is just one of many systems set up by white people in such a way as to benefit white people at the expense of non-white people. We want to learn why and how this happens, and how it can be reversed.
 
+## US Criminal Justice System
+We have much to learn about this but we found Michelle Alexander's *[The future of race in America](https://www.youtube.com/watch?v=SQ6H-Mz6hgw)* TEDx talk to be incredibly illuminating as a starting point. 
+
 ## Racial wealth gap
 We recently watched *Explained: The Racial Wealth Gap* on Netlfix and found it extremely eye-opening (and shocking that we had never previously heard about redlining, for instance). Although it focuses on American history and economics, it gives an insight into the devastating effects of years of racist policy. It's [available in full on YouTube](https://www.youtube.com/watch?v=Mqrhn8khGLM) if you don't have Netflix.
+
+## Educating others
+Part of the work of becoming antiracist is to challenge racism wherever you see it, and this includes having uncomfortable conversations with people you know and love. Here are a few resources we've come across to help prepare for these conversations:
+
+- [How to respond to common racist statements](https://www.instagram.com/p/CBBTQ7kgT1S/)
+- [Tips for effectively educating people who have racial biases](https://www.instagram.com/p/CBCA6o0J9tW/)
+- [How to talk to your family about racism](https://www.instagram.com/p/CA-eKNfpmJu/)
 
 ## Further reading
 Resources we're bookmarking to refer back to.
