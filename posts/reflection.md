@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 It's tempting to jump straight to action and educating yourself (and both are crucial!), but part of the work of becoming antiracist is to look inwards. If you're white, like us, this includes:
 
-- Recognising that we benefit from white privilege at the expense of people of colour
+- Recognising that we benefit from white privilege at the expense of people who aren't white
 - Thinking about the ways in which we've perpetuated racism through our actions or inaction
 - Identifying the gaps in our education or awareness, and working out how to fill them in
 
