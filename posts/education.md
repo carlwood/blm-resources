@@ -12,6 +12,8 @@ layout: layouts/post.njk
 
 This in-depth [list of antiracism resources](https://docs.google.com/document/d/1hpub-jkm9cLzJWqZSsETqbE6tZ13Q0UbQz--vQ2avEc/preview?pru=AAABcqRsIpE*9uibTnB1bUpgGdZKJ7qPGg) has a ton of recommendations for books grouped by category, plus essays, films and more.
 
+Additionally, Alijah Webb has created a [Google Drive folder](https://drive.google.com/drive/folders/18y0_2wm85L113fVWYdgljq9uuIlmlbl3) full of black revolutionary texts from throughout history.
+
 ## What we're reading
 This list is painfully short right now, but will grow as we educate ourselves further.
 
@@ -22,8 +24,6 @@ This list is painfully short right now, but will grow as we educate ourselves fu
 - *Why I'm No Longer Talking to White People About Race* by Reni Eddo-Lodge (read)
 
 If you're in the UK and trying to source any books, check out [New Beacon Books](https://www.newbeaconbooks.com/), a black-owned bookstore, first to see if they stock it. 
-
-Additionally, Alijah Webb has created a [Google Drive folder](https://drive.google.com/drive/folders/18y0_2wm85L113fVWYdgljq9uuIlmlbl3) full of black revolutionary texts from throughout history. There's tons in there, and we plan to work through it as we make antiracism education a part of our everyday life.
 
 ## Black British history
 We're from the UK and we've realised our schooling was seriously lacking in black British history. Regretfully, we've never taken it upon ourselves to fill in the gaps until now, but we've been finding the following sites useful in our early efforts to change this:
