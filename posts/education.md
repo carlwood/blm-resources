@@ -23,6 +23,8 @@ This list is painfully short right now, but will grow as we educate ourselves fu
 
 If you're in the UK and trying to source any books, check out [New Beacon Books](https://www.newbeaconbooks.com/), a black-owned bookstore, first to see if they stock it. 
 
+Additionally, Alijah Webb has created a [Google Drive folder](https://drive.google.com/drive/folders/18y0_2wm85L113fVWYdgljq9uuIlmlbl3) full of black revolutionary texts from throughout history. There's tons in there, and we plan to work through it as we make antiracism education a part of our everyday life.
+
 ## Black British history
 We're from the UK and we've realised our schooling was seriously lacking in black British history. Regretfully, we've never taken it upon ourselves to fill in the gaps until now, but we've been finding the following sites useful in our early efforts to change this:
 
@@ -33,7 +35,7 @@ We're from the UK and we've realised our schooling was seriously lacking in blac
 [The Black Curriculum](https://www.theblackcurriculum.com/) is an organisation working to make Black History mandatory in schools, and you can [email the Education Secretary](https://www.theblackcurriculum.com/action) to put pressure on the government to make this change.
 
 ## British Criminal Justice System
-It's plain to see that the UK Criminal Justice System (CJS) is institutionally racist, despite many believing it's "[not as bad as in the US](https://www.youtube.com/watch?v=xn6t74KJoO8)". In addition to personal testimony from many British people of colour, and horrifying individual cases like that of [Sarah Reed](https://www.inquest.org.uk/sarah-reed-inquest-conclusions) and [Daniel Adowole](https://www.inquest.org.uk/daniel-adewole-conclusion), the figures paint a clear picture:
+It's plain to see that the UK Criminal Justice System (CJS) is institutionally racist, despite many believing it's "[not as bad as in the US](https://www.youtube.com/watch?v=xn6t74KJoO8)". In addition to horrifying individual cases like that of [Sarah Reed](https://www.inquest.org.uk/sarah-reed-inquest-conclusions) and [Daniel Adowole](https://www.inquest.org.uk/daniel-adewole-conclusion), the figures paint a clear picture:
 
 - [Race and the criminal justice system statistics 2018](https://www.gov.uk/government/statistics/race-and-the-criminal-justice-system-statistics-2018)
 - [Black, Asian and Minority Ethnic disproportionality in the Criminal Justice System in England and Wales](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/639261/bame-disproportionality-in-the-cjs.pdf)
