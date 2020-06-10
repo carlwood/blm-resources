@@ -40,6 +40,8 @@ And on that topic, watch [@brandonkgood's](https://www.instagram.com/brandonkgoo
 - **Understand that being an ally is messy and complicated.** It's natural that these negative feelings will come up, but it's what we do with them that counts. We need to connect with white friends and family and talk about it openly, and ask "how the fuck did it take us this long to wake up?" We must not unload this onto the black people in our lives. It is not for them to comfort us, or ease our guilt.
 - **Feeling this way is an essential part of the work.** We need to sit with it and reflect deeply. We need to force ourselves to confront all the times we thought or did something racist. All the times we made assumptions about people based on racial stereoytpes. All the times we were silent and didn't challenge racism. And then, we need to do better.
 
+Also watch his video *Good Ally vs. Effective Ally*, for lots of pointers of practical things we can do in our communities to effect real change.
+
 ## A note on social media use
 
 Here are a few more things we need to consider specifically when using social media.
