@@ -9,15 +9,17 @@ permalink: "self-reflection/index.html"
 layout: layouts/post.njk
 ---
 ## Becoming *antiracist*
-If you've never considered yourself racist (as we hadn't) then it can be a bitter pill to swallow to hear "it's not enough to not be racist, you need to be actively *antiracist*".
+If you've never considered yourself racist (as we hadn't) then it can come as a shock to hear "it's not enough to not be racist, you need to be actively *antiracist*". What does it mean?
 
 **Being antiracist isn't something we can *achieve*. It's something we *practice* daily.** 
 
 It's tempting to jump straight to action and educating yourself (and both are crucial!), but part of the work of becoming antiracist is to look inwards. If you're white, like us, this includes:
 
+- Understanding how most systems are built upon the myth of white supremacy
 - Recognising that we benefit from white privilege at the expense of people who aren't white
 - Thinking about the ways in which we've perpetuated racism through our actions or inaction
 - Identifying the gaps in our education or awareness, and working out how to fill them in
+- Making plans for how to bed antiracist behaviours into our everyday lives
 
 ## Things to remember
 Here are some the lessons shared by black creators and activists (linked wherever applicable so you can read and listen to them directly):
