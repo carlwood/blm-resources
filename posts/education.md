@@ -18,8 +18,8 @@ Additionally, Alijah Webb has created a [Google Drive folder](https://drive.goog
 This list is painfully short right now, but will grow as we educate ourselves further.
 
 - *Born a Crime* by Trevor Noah (read)
-- *Brit(ish): On Race, Identity and Belonging* by Afua Hirsch (bought, to read)
-- *How To Be An Antiracist* by Ibram X. Kendi (reading)
+- *Brit(ish): On Race, Identity and Belonging* by Afua Hirsch (reading)
+- *How To Be An Antiracist* by Ibram X. Kendi (read)
 - *The New Jim Crow* by Michelle Alexander (reading)
 - *Why I'm No Longer Talking to White People About Race* by Reni Eddo-Lodge (read)
 
@@ -51,10 +51,17 @@ For instance:
 But the CJS is just one of many systems set up by white people in such a way as to benefit white people at the expense of non-white people. We want to learn why and how this happens, and how it can be reversed.
 
 ## US Criminal Justice System
-We have much to learn about this but we found Michelle Alexander's *[The future of race in America](https://www.youtube.com/watch?v=SQ6H-Mz6hgw)* TEDx talk to be incredibly illuminating as a starting point. 
+We have much to learn about this but we found Michelle Alexander's *[The future of race in America](https://www.youtube.com/watch?v=SQ6H-Mz6hgw)* TEDx talk to be incredibly illuminating as a starting point. We're also reading her book, *The New Jim Crow*, which goes into more detail on the topic of mass incarceration.
+
+Another voice to seek out on the topic is Angela Davis, in particular her lecture on [Slavery and the Prison Industrial Complex](https://www.youtube.com/watch?v=yQ2cC7LHMxA).
+
+For a super condensed overview that you can use as a jumping off point for research, [this slideshow](https://www.instagram.com/p/CBVzdBJAqtG/) by @wastefreemarie is super helpful. 
 
 ## Racial wealth gap
 We recently watched *Explained: The Racial Wealth Gap* on Netlfix and found it extremely eye-opening (and shocking that we had never previously heard about redlining, for instance). Although it focuses on American history and economics, it gives an insight into the devastating effects of years of racist policy. It's [available in full on YouTube](https://www.youtube.com/watch?v=Mqrhn8khGLM) if you don't have Netflix.
+
+## Self-study
+We recently joined Rachel Cargle's donation based learning platform on Patreon: [The Great Unlearn](https://www.patreon.com/thegreatunlearn). Each month she publishes a curated syllabus of things to read, watch and listen to at your own pace, plus exercises to work through, and live sessions you can join. We've found it a good way to provide some structure to our self-study, while also supporting a black creator's work directly.
 
 ## Educating others
 Part of the work of becoming antiracist is to challenge racism wherever you see it, and this includes having uncomfortable conversations with people you know and love. Here are a few resources we've come across to help prepare for these conversations:
