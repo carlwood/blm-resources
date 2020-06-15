@@ -12,8 +12,6 @@ layout: layouts/post.njk
 
 This in-depth [list of antiracism resources](https://docs.google.com/document/d/1hpub-jkm9cLzJWqZSsETqbE6tZ13Q0UbQz--vQ2avEc/preview?pru=AAABcqRsIpE*9uibTnB1bUpgGdZKJ7qPGg) has a ton of recommendations for books grouped by category, plus essays, films and more.
 
-Additionally, Alijah Webb has created a [Google Drive folder](https://drive.google.com/drive/folders/18y0_2wm85L113fVWYdgljq9uuIlmlbl3) full of black revolutionary texts from throughout history.
-
 ## What we're reading
 This list is painfully short right now, but will grow as we educate ourselves further.
 
