@@ -8,7 +8,7 @@ permalink: "emails-and-petitions/index.html"
 layout: layouts/post.njk
 ---
 ## Petitions to sign
-Visit [this extensive list](https://blacklivesmatters.carrd.co/#petitions) of petitions calling for justice for black individuals murdered by the police. It also contains information on zipcodes to use if you're outside the US. There are some additional petitions below.
+Visit [this extensive list](https://blacklivesmatters.carrd.co/#petitions) of petitions calling for justice for Black individuals murdered by the police. It also contains information on zipcodes to use if you're outside the US. There are some additional petitions below.
 
 **Important note:** Many of these petitions are on change.org who will ask you for a donation after signing, to help spread the message. This goes to them rather than the cause specifically. Donate this money directly to the charity instead.
 
@@ -35,7 +35,7 @@ Visit [this extensive list](https://blacklivesmatters.carrd.co/#petitions) of pe
 ## Emails to send
 Use the [Write To Them](https://www.writetothem.com/) website to find and contact your local MP. Be sure to change the text of any templates, as there's the potential for similarly worded emails to start registering as spam. 
 
-- [Email Secretary of Education Gavin Williamson](mailto:gavin.williamson.mp@parliament.uk) and ask him to make black history mandatory in the UK national curriculum. If you're not sure what to say, you can adapt [this template](https://docs.google.com/document/d/1XHz8NJph6laVBFnuzhIzAzFTqjjfFt4-ucEt9EO6_Fw/edit) from [The Black Curriculum](https://www.theblackcurriculum.com/).
+- [Email Secretary of Education Gavin Williamson](mailto:gavin.williamson.mp@parliament.uk) and ask him to make Black history mandatory in the UK national curriculum. If you're not sure what to say, you can adapt [this template](https://docs.google.com/document/d/1XHz8NJph6laVBFnuzhIzAzFTqjjfFt4-ucEt9EO6_Fw/edit) from [The Black Curriculum](https://www.theblackcurriculum.com/).
 - Use this template shared by [Amnesty International](https://www.amnesty.org.uk/black-lives-matter-write-your-mp) to urge your local MP to take racial injustice seriously.
 - [Here's a template](https://docs.google.com/document/d/1q9RECUCTLh4XmTYWiIe6pKz-gUtGA5RlhDUJWdqOuN4/edit) you can adapt and send to your local MP which demands action on three topics:
     - Suspending the sale of teargas, riot shields, and rubber bullets to the United States
